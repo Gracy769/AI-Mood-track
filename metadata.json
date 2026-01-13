@@ -1,0 +1,7 @@
+{
+  "name": "VibeCheck",
+  "description": "A proactive student mental health tracker using Gemini's capabilities to analyze journal entries for early stress detection and personalized interventions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
